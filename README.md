@@ -15,6 +15,7 @@ source env/bin/activate
 # On Windows
 env/scripts/activate
 pip install -r requirements.txt
+jupyter notebook
 ```
 
 # For further reading
