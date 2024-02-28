@@ -13,8 +13,15 @@ A gentle introduction to world of quantitative finance, we will learn -
 https://zerodha.com/varsity/chapter/pair-trading-basics/
 https://marketsetup.in/posts/pair-trading-1/
 
+**Smart Beta Investing**
+https://www.smallcase.com/blog/quality-smart-beta/
+
+
 **Trading Automation**
+https://github.com/zerodha/pykiteconnect
+
 https://marketsetup.in/posts/jugaad-trader-with-otp/
+
 
 **Patience in investing**
 https://marketsetup.in/posts/patience-pays-off/
