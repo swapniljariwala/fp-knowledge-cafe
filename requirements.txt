@@ -1,0 +1,5 @@
+jugaad-data
+yfinance[nospam,repair]
+jupyterlab
+notebook
+matplotlib
